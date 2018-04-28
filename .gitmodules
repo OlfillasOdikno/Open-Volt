@@ -1,0 +1,3 @@
+[submodule "library"]
+	path = library
+	url = https://github.com/OlfillasOdikno/Open-Volt-Library.git
