@@ -1,3 +1,9 @@
 [submodule "library"]
 	path = library
 	url = https://github.com/OlfillasOdikno/Open-Volt-Library.git
+[submodule "server"]
+	path = server
+	url = https://github.com/OlfillasOdikno/Open-Volt-Server.git
+[submodule "renderer"]
+	path = renderer
+	url = https://github.com/OlfillasOdikno/Open-Volt-Renderer.git
